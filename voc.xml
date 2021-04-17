@@ -1,0 +1,26 @@
+<books>
+<book>
+		<name>Дорога</name>
+		<author>Джек Лондон</author>
+</book>
+
+<book>
+		<name>Война и мир</name>
+		<author>Лев Николаевич Толстой</author>
+</book>
+	
+	<book>
+		<name>Палата № 6</name>
+		<author>Антон Павлович Чехов</author>
+	</book>
+	
+	<book>
+		<name>Анна Каренина</name>
+		<author>Лев Николаевич Толстой</author>
+	</book>
+	
+	<book>
+		<name>Кавказский пленник</name>
+		<author>Лев Николаевич Толстой</author>
+	</book>
+</books>
