@@ -6,8 +6,8 @@ import javax.xml.bind.annotation.*;
 @XmlRootElement( name = "book")
 public class Book {
 
-    String name;
-    String author;
+    private String name;
+    private String author;
     private boolean isMatch;
 
     public Book(){
